@@ -1,15 +1,15 @@
 ---
 templateKey: index-page
 title: Robi Maulana
-image: /img/ninveli_pov_flying_in_galaxy_galaxy_stars_planets_milky_way_beu_0e45f9f1-8bf0-4527-82a5-171fa42ba3bd.png
+image: /img/home-jumbotron.jpg
 heading: Robi Maulana
 subheading: "Transforming Data into Actionable Insights for Business Growth and
   Efficiency "
 mainpitch:
   title: Who is Robi Maulana?
-  description: I'm Robi Maulana, a passionate data analyst with a knack for
+  description: I'm Robi Maulana, a passionate data enthusiast with a knack for
     transforming raw data into actionable insights. Dive into my world where
-    Excel sheets become powerful tools and data analysis is an art form.
+    data become powerful answers and data analysis is an art form.
 description: Armed with a degree in Psychology from Universitas 17 Agustus 1945
   Surabaya and a certified data analyst by IBM, I bring a unique perspective to
   the world of data. My journey includes two years as an administrative staff at
@@ -19,12 +19,8 @@ description: Armed with a degree in Psychology from Universitas 17 Agustus 1945
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: "I manage and maintain data integrity through meticulous administration,
+        with high efficiency. "
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
