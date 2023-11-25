@@ -6,10 +6,9 @@ heading: Robi Maulana
 subheading: "Transforming Data into Actionable Insights for Business Growth and
   Efficiency "
 mainpitch:
-  title: Who is Robi Maulana?
-  description: I'm Robi Maulana, a passionate data enthusiast with a knack for
-    transforming raw data into actionable insights. Dive into my world where
-    data become powerful answers and data analysis is an art form.
+  title: Hi, I'm Robi.
+  description: "This is a place where I wrote my thoughts and analysis. And maybe
+    a project or two. "
 description: Armed with a degree in Psychology from Universitas 17 Agustus 1945
   Surabaya and a certified data analyst by IBM, I bring a unique perspective to
   the world of data. My journey includes two years as an administrative staff at
